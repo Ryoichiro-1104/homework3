@@ -1,0 +1,25 @@
+
+.contents {
+    margin:50px;
+}
+.content {
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 20px 0px;
+    padding: 10px;
+    height: 350px;
+}
+.click {
+    width: 90%;
+    margin: 0 auto;
+}
+.AI {
+    margin:0 20;
+}
+.carousel-item h1 {
+    text-align: center;
+    color:blue;
+    position: fixed;
+    top:450px;
+    left:50%;
+}
